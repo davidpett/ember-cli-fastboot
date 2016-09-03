@@ -72,7 +72,7 @@
     "ember-cli-babel": "^5.1.5",
     "ember-test-helpers": "^0.5.22",
     "express": "^4.8.5",
-    "fastboot-express-middleware": "1.0.0-beta.8",
+    "fastboot-express-middleware": "davidpett/fastboot-express-middleware",
     "fastboot-filter-initializers": "0.0.2",
     "lodash.defaults": "^4.0.1",
     "lodash.uniq": "^4.2.0",
